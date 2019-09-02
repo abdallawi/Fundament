@@ -1,5 +1,7 @@
 package Entities.Animal_Entities;
-
+//TODO why does this class exist, same goes for the PlantApp?
+// if it's for testing purposes makes sure you delete them when you're done
+// this is not clean code
 import Entities.Plant_Entities.*;
 
 public class AnimalApp {

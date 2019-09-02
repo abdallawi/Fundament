@@ -63,6 +63,7 @@ public class ForestNoteBook {
 //	Add new animal to the animal list
 	
 	public void addAnimal(Animal animal) {
+		//TODO you should also check if animal is an instanceOf Carnivore etc
 		if(!animals.contains(animal)) {
 			this.animals.add(animal);
 			++animalCount;

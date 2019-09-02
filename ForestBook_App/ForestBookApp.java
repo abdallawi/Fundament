@@ -5,6 +5,8 @@ import Entities.Plant_Entities.*;
 
 import Service.ForestNoteBook;
 
+//TODO you never added the plants to the herbivore and omnivore diet
+// also never printed
 public class ForestBookApp {
 	public static void main(String[] args) {
 		ForestNoteBook forestNoteBook = new  ForestNoteBook();
